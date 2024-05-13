@@ -67,14 +67,8 @@ In addition to my technical training in software engineering, I bring a rich bac
 </br></br></br>
 
 ## Connect with Me (WIP)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,wordpress,vscode,mysql,ai,figma,eclipse,discord,python" />
-  </a>
-</p>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Twitter][twitter-shield]][twitter-url]
+
 
 <!-- URLs -->
 [linkedin-url]: https://www.linkedin.com/in/laura-nguyen/
