@@ -23,7 +23,7 @@
 
 
 ### Other Skills 
-In addition to my technical training in software engineering, I bring a rich background in various business-critical domains. My experience spans from **Data Analysis & Visualization** to **Digital Marketing & Analytics**. This diverse skill set not only enhances my ability to understand and tackle business challenges comprehensively but also enables me to effectively collaborate across different teams to drive successful outcomes.
+In addition to my technical training in software engineering, I bring a rich background in various growth domains. This not only enhances my ability to understand and tackle business challenges comprehensively but also enables me to effectively collaborate across different teams to drive successful outcomes.
 
 - **Data Analysis & Visualization:** Looker, Tableau, Sigma, Mixpanel, Heap
 - **Digital Marketing & Analytics:** Google Analytics 4 (GA4), Google Tag Manager (GTM), Facebook Ads, Google Ads, Hotjar, FullStory, SEMRush
