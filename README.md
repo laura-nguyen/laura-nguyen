@@ -42,7 +42,7 @@ In addition to my technical training in software engineering, I bring a rich bac
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura-nguyen&layout=donut&theme=omni" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=laura-nguyen&theme=omni&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=laura-nguyen&theme=omni&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 </div>
 </br></br></br>
