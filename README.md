@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently deepening my tech skills at **BrainStation's Software Engineering Bootcamp**.
 - 🔭 I've spent the last three years as a data-driven **Growth Marketing Specialist for Series A+ startups**.
-- 🤝 I was a **Teaching Assistant for Python** during my undergrad, where I first discovered my interest in coding — starting with the intriguing language Racket.
+- 🤝 I was a **Teaching Assistant for Python** during my undergrad, where I first discovered my interest in coding.
 - 📫 How to reach me: **hello@lauranguyen.me**
 - ⚡ Fun fact: I enjoy **golfing, hiking, playing Teamfight Tactics, and competing in chess with a 1300+ rating**.
 
@@ -23,7 +23,7 @@
 
 
 ### Other Skills 
-In addition to my technical training in software engineering, I bring a rich background in various growth domains. This not only enhances my ability to understand and tackle business challenges comprehensively but also enables me to effectively collaborate across different teams to drive successful outcomes.
+My background in marketing enhances my ability to understand and tackle business challenges comprehensively and enables me to collaborate effectively across different teams to drive successful outcomes.
 
 - **Data Analysis & Visualization:** Looker, Tableau, Sigma, Mixpanel, Heap
 - **Digital Marketing & Analytics:** Google Analytics 4 (GA4), Google Tag Manager (GTM), Facebook Ads, Google Ads, Hotjar, FullStory, SEMRush
