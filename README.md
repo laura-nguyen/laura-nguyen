@@ -23,7 +23,7 @@
 
 
 ### Other Skills 
-My background in marketing enhances my ability to understand and tackle business challenges comprehensively and enables me to collaborate effectively across different teams to drive successful outcomes.
+My background in marketing enhances my ability to understand business challenges and enables me to collaborate effectively across different teams to drive successful outcomes.
 
 - **Data Analysis & Visualization:** Looker, Tableau, Sigma, Mixpanel, Heap
 - **Digital Marketing & Analytics:** Google Analytics 4 (GA4), Google Tag Manager (GTM), Facebook Ads, Google Ads, Hotjar, FullStory, SEMRush
