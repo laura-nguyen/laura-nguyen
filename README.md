@@ -52,7 +52,7 @@ My background in marketing enhances my ability to understand business challenges
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=yoga-ai&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=yoga-instruct&theme=omni" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=website-2021&theme=omni" />
