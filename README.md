@@ -5,7 +5,7 @@
 
 ## Hi there 👋 Thanks for stopping by. 
 
-- 🌱 I'm currently deepening my tech skills at **BrainStation's Software Engineering Bootcamp**.
+- 🌱 I recently completed **BrainStation's Software Engineering Bootcamp**.
 - 🔭 I've spent the last three years as a data-driven **Growth Marketing Specialist for Series A+ startups**.
 - 🤝 I was a **Teaching Assistant for Python** during my undergrad, where I first discovered my interest in coding.
 - 📫 How to reach me: **hello@lauranguyen.me**
