@@ -6,10 +6,9 @@
 ## Hi there 👋 Thanks for stopping by. 
 
 - 🌱 I recently completed **BrainStation's Software Engineering Bootcamp**.
-- 🔭 I've spent the last three years as a data-driven **Growth Marketing Specialist for Series A+ startups**.
+- 🔭 I've spent the last three years as a **Growth Marketing Specialist for Series A+ startups**, specializing in website optimization, SEO and lifecycle marketing.
 - 🤝 I was a **Teaching Assistant for Python** during my undergrad, where I first discovered my interest in coding.
-- 📫 How to reach me: **hello@lauranguyen.me**
-- ⚡ Fun fact: I enjoy **golfing, hiking, playing Teamfight Tactics, and competing in chess with a 1300+ rating**.
+- ⚡ I enjoy **golfing, hiking, playing Teamfight Tactics, and playing chess with a 1300+ rating**.
 
 ***I'm passionate about blending marketing acumen with software engineering to craft innovative solutions for business growth. Always eager to tackle challenging projects and learn more along the way!***
 </br></br></br>
@@ -29,7 +28,6 @@ My background in marketing enhances my ability to understand business challenges
 - **Digital Marketing & Analytics:** Google Analytics 4 (GA4), Google Tag Manager (GTM), Facebook Ads, Google Ads, Hotjar, FullStory, SEMRush
 - **CRM & Marketing Automation:** Salesforce, Pardot, Klaviyo, Customer.io, HubSpot
 - **Website Optimization & Testing:** Google Optimize, VWO, Convert.com
-- **CMS:** Shopify, WordPress
 </br></br></br>
 
 ## Summary 
@@ -58,17 +56,8 @@ My background in marketing enhances my ability to understand business challenges
   <a href="https://github.com/laura-nguyen/laura-nguyen-bandsite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=laura-nguyen-bandsite&theme=omni" />
 </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=website-2021&theme=omni" />
-</a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=website-2021&theme=omni" />
-</a>
 </div>
 </br></br></br>
-
-## Connect with Me (WIP)
-
 
 
 <!-- URLs -->
