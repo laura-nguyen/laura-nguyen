@@ -1,5 +1,3 @@
-![Growth Marketing Strategist  Software Engineer Learner](https://github.com/laura-nguyen/laura-nguyen/assets/39463778/6e668b47-1a07-48ca-9d01-4218d0d473e8)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaura-nguyen&count_bg=%23F6C930&title_bg=%23000000&icon_color=%23F6C930&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
