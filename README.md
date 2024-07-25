@@ -44,20 +44,6 @@ My background in marketing enhances my ability to understand business challenges
 </br></br></br>
 
 
-## Repositories (WIP)
-
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=yoga-instruct&theme=omni" />
-</a>
-  <a href="https://github.com/laura-nguyen/laura-nguyen-bandsite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laura-nguyen&repo=laura-nguyen-bandsite&theme=omni" />
-</a>
-</div>
-</br></br></br>
-
-
 <!-- URLs -->
 [linkedin-url]: https://www.linkedin.com/in/laura-nguyen/
 
