@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaura-nguyen&count_bg=%23F6C930&title_bg=%23000000&icon_color=%23F6C930&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-
 ## Hi there 👋 Thanks for stopping by. 
 
 - 🌱 I recently completed **BrainStation's Software Engineering Bootcamp**.
