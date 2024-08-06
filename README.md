@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lauriananguyen)
 
 
-<img align="right" alt="GIF" src="murakami-flower.gif" width="200" />
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/47786064-e20f-46b9-99ea-5f25de4c5fb2" width="200" />
 
 - 👋🏻 Hi! Glad to see you here!
 
