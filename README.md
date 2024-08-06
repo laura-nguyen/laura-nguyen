@@ -15,7 +15,7 @@
 
 - ⚡ I enjoy **golfing, hiking, playing Teamfight Tactics, & playing chess with a 1300+ rating**.
 
-- 🌱 Currently earning Typescript, Next.js, and Redux
+- 🌱 **Currently learning:** Typescript, Next.js, and Redux
 
 <br>
 
