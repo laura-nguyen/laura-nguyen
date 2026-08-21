@@ -97,11 +97,6 @@ My background in marketing enhances my ability to understand business challenges
 - **Website Optimization & Testing:** Google Optimize, VWO, Convert.com
   </br></br></br>
 
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/laura.nguyen)
-
-</br></br></br>
 
 <!-- URLs -->
 
